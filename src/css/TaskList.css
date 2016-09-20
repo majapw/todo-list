@@ -1,0 +1,20 @@
+
+.TaskList {
+  border-right: 1px solid #eee;
+  height: 100%;
+}
+
+.TaskList__title {
+  padding: 15px;
+  border-bottom: 1px solid #eee;
+  background: #BADDFF;
+  font-weight: bold;
+}
+
+.TaskList__add-task {
+  border-bottom: 1px solid #eee;
+}
+
+.TaskList__add-task:active {
+  background: #eee;
+}

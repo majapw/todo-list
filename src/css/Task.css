@@ -1,0 +1,14 @@
+.Task {
+  padding: 15px;
+  border-bottom: 1px solid #eee;
+  cursor: pointer;
+}
+
+.Task:active,
+.Task--selected {
+  background: #eee;
+}
+
+.Task__checkbox {
+  margin-right: 5px;
+}
